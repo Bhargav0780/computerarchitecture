@@ -1,3 +1,5 @@
+hit ratio and misses
+
 #include<stdio.h>
 void main()
 {
