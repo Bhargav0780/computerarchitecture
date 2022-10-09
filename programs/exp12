@@ -1,3 +1,5 @@
+factorial of n
+
 0400	MOV CX, [0500]	CX <- [0500]
 0404	MOV AX, 0001	AX <- 0001
 0407	MOV DX, 0000	DX <- 0000
