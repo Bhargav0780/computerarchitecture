@@ -1,3 +1,5 @@
+decimal to octal
+
 #include<stdio.h>
 
 #include<conio.h>
