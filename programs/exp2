@@ -1,3 +1,5 @@
+8 bit subtraction
+
 LXI H,7501
 MOV A,M
 INX H
