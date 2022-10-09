@@ -1,3 +1,5 @@
+3 stage of pipeline and or nand 
+
 #include<stdio.h>
 int main( )
 {
