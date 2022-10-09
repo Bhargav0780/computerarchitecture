@@ -1,3 +1,5 @@
+8 bit multiplication
+
 LDA 8500
 MOV B,A
 LDA 8501
