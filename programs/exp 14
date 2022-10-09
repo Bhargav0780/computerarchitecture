@@ -1,3 +1,5 @@
+2 stage pipeline add&sub
+
 #include<stdio.h>
 int main()
 {
