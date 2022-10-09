@@ -1,3 +1,5 @@
+16 bit division
+
 LHLD 8500
 MOV D,H
 MOV E,L
