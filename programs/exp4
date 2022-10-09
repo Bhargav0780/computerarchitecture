@@ -1,3 +1,5 @@
+16 bit subtraction
+
 LHLD 2050
 XCHG
 LHLD 2052
